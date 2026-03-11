@@ -1,0 +1,21 @@
+# Design-Focused Cursor Rules and Guidelines
+
+1. **Consistency**: Ensure that cursor styles are consistent across the application to improve user familiarity.
+
+2. **Feedback**: Use different cursor styles to provide feedback for different actions, such as hovering, clicking, or dragging.
+
+3. **Accessibility**: Always consider accessibility in cursor design, ensuring that cursor states are distinguishable for users with visual impairments.
+
+4. **Pointer Cursors**: Use the pointer cursor (hand icon) for clickable elements to indicate that they are interactive.
+
+5. **Text Cursors**: Use the text cursor (I-beam) for selectable text areas to clearly indicate that the text can be highlighted or edited.
+
+6. **Loading Cursors**: Use specific loading cursors when actions take longer than expected to provide clear user feedback on processing states.
+
+7. **Horizontal/Vertical Resizers**: When resizing elements, provide visual feedback using horizontal or vertical resize cursors to indicate the direction of the resizing option.
+
+8. **Avoid Overuse of Custom Cursors**: Be cautious with custom cursor designs as they can disrupt familiarity and usability; stick to standard cursor types unless absolutely necessary.
+
+9. **Consider Different Environments**: Test cursor designs in different operating systems and browsers to ensure a uniform experience for all users.
+
+10. **User Testing**: Conduct user testing to gather feedback on cursor designs, ensuring they meet user expectations and enhance usability.
